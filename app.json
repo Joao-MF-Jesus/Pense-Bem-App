@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Pense Bem Esportes",
+    "slug": "pense-bem-esportes",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light"
+  }
+}
