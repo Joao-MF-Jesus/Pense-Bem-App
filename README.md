@@ -38,9 +38,12 @@ Web
 npm run web
 Android
 npm run android
+
 📸 Preview
 
-Adicione screenshots do app aqui.
+<img width="1915" height="934" alt="image" src="https://github.com/user-attachments/assets/2040480c-4ff1-4775-bef2-90f8e1a74067" />
+<img width="1879" height="678" alt="image" src="https://github.com/user-attachments/assets/08dca778-a93d-47c6-8e46-4acd95a18fc4" />
+<img width="1881" height="680" alt="image" src="https://github.com/user-attachments/assets/3b2fc1e2-7afa-4e6c-8f95-90233b259ac0" />
 
 🎯 Objetivo do projeto
 
